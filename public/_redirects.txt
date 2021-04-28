@@ -1,5 +1,0 @@
-# Redirects from what the browser requests to what we serve
-/rumah siap              /
-/rumah siap/index.html  /blog/my-post
-/news              /blog
-/cuties            https://www.petsofnetlify.com
